@@ -10,6 +10,32 @@ Downloadarea proiectului intr-un folder.
 Porneste proiectul in MAX
 si in partea din dreapta sus se incarca un fisier audio in partea de playlist si se da play.
 
+Pentru a putea vedea rezultatul trebuie modificate urmatoarele
+
+draw_mode > line_strip
+
+variabilele legate la pak dim in
+100 - 10 (numarul de linii vizibile) - 100 (rezolutia)
+
+//
+alte variabile care pot fi modificate
+line_width - grosimea liniilor afisate pe ecran
+gl_color - culoarea liniilor afisate pe ecran
+
+bloom_amout - cat bloom este prezent peste liniile afisate
+blur_width- cat de mare este blur-ul 
+
+Valorile folosite de mine au fost
+pak dim -> 100 10 108
+draw_mode line_strip
+slide_down 0.9
+line width 2 
+gl_color magenta
+
+bloom_amt 2.7
+blur_width 0.87
+threshold 0.3
+
 ## (Istoric)
 
 (13.05) ...
