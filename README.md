@@ -1,11 +1,14 @@
-# (Titlu)
-(Scurtă descriere)
+# Audio Reactive Visualizer  - Ungureanu
+Un visualizer in stilul WinAmp pentru a avea un feedback vizual in momentul cand se da play la o piesa
+sau sample-uri.
 
 ## (Instalare)
-...
+Downloadarea proiectului intr-un folder.
+
 
 ## (Utilizare)
-...
+Porneste proiectul in MAX
+si in partea din dreapta sus se incarca un fisier audio in partea de playlist si se da play.
 
 ## (Istoric)
 
@@ -16,7 +19,7 @@
 (X.06) ...
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=nhLVLCK_90o&t=1333s
 
 # Dezvoltarea proiectului
 
